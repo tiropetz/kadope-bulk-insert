@@ -6,7 +6,7 @@ Kadopeで一括打刻するためのスクリプト。
 
 # 使い方
 
-1. TASK_IDに好きな項目をいれる。
+1. `index.js` の `TASK_ID` に好きな項目をいれる。
 
 （idはkadopeのサイトからデベロッパーツールで拾う）
 
@@ -25,7 +25,7 @@ const TASK_ID = {
 }
 ```
 
-2. TASKSに好きな予定を入れる
+2. `index.js` の `TASKS` に好きな予定を入れる
 
 time: タスクを挿入する時間
 minutes: タスクを行った時間  
