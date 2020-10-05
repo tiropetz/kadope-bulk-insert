@@ -2,6 +2,8 @@
 Kadopeで一括打刻するためのスクリプト。  
 ある月曜日から金曜日までを設定したテンプレート通りにインサートする。
 
+[![Image from Gyazo](https://i.gyazo.com/e3c9418733720ab03d3bb4845e1a80ab.gif)](https://gyazo.com/e3c9418733720ab03d3bb4845e1a80ab)
+
 # 使い方
 
 1. TASK_IDに好きな項目をいれる。
